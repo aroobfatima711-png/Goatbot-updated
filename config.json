@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "RaNi👸",
+  "nickNameBot": "BoT Ho YaRr",
   "prefix": "*",
   "adminOnly": {
     "enable": false,
@@ -25,7 +25,7 @@
     "61563401938811"
   ],
   "devUsers": [
-    "100083039411474"
+    "61563401938811"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
